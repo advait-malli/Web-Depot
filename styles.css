@@ -2,3 +2,28 @@
 :root {
     font-family: "Satoshi";
 }
+
+body {
+    background-color: light-dark(#dfdfdf, #1e1e1e);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0; /* Optional: Removes default margin */
+    padding: 0; /* Optional: Removes default padding */
+}
+
+button {
+    border: none;
+    background-color: transparent;
+    border-radius: 500px;
+    border-top: #fff;
+}
+
+button.navbutton {
+    background-color: #ffffff8a;
+}
+
+nav {
+    
+}
